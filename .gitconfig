@@ -1,0 +1,7 @@
+[user]
+	name = seducingbits
+	email = seducingbits@noreply.com
+[core]
+	autocrlf = input
+[commit]
+	gpgsign = false
